@@ -30,6 +30,9 @@
     .header__sort-bar {
         display: flex;
     }
+    .app__content {
+        padding-top: 8px;
+    }
 }
 /* Tablet */
 @media (min-width: 740px) and (max-width: 1023px) {
