@@ -1011,7 +1011,7 @@
 
 /* Mobile category */
 .mobile-category {
-    
+    display: none;
 }
 
 .mobile-category__list {
@@ -1061,6 +1061,7 @@
     font-weight: 300;
     user-select: none;
     -webkit-user-select: none;
+    padding: 0 6px;
 }
 
 
@@ -1400,6 +1401,7 @@ i.home-product-item__like-icon-fill {
 }
 
 .footer__bottom {
-    padding: 8px 0;
+    margin-top: 26px;
     background-color: #f5f5f5;
+    padding: 8px 0;
 }
